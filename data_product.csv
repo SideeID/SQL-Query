@@ -1,0 +1,31 @@
+Product_Id,Product_Name,Category_Name,Price,Stock_Qty,Supplier_Name,Contact_Email,Phone
+1,Beras Rojolele 5kg,Sembako,65000,25,PT test1,supp@test1.co.id,021-29345888
+2,Minyak Goreng Bimoli 2L,Sembako,32000,8,PT test1,supp@test1.co.id,021-29345888
+3,Gula Pasir Gulaku 1kg,Sembako,15000,40,PT test1,supp@test1.co.id,021-29345888
+4,Telur Ayam Negeri 1kg,Sembako,28000,6,PT test1,supp@test1.co.id,021-29345888
+5,Tepung Terigu Segitiga Biru 1kg,Sembako,12000,30,PT test5,supp@test5.co.id,021-5366066
+6,Aqua Botol 600ml,Minuman,3500,150,PT test3,supp@test3.co.id,021-5245555
+7,Teh Pucuk Harum 350ml,Minuman,4000,120,PT test1,supp@test1.co.id,021-29345888
+8,Coca Cola 390ml,Minuman,5500,80,PT test1,supp@test1.co.id,021-29345888
+9,Fanta Strawberry 390ml,Minuman,5500,9,PT test1,supp@test1.co.id,021-29345888
+10,Pocari Sweat 350ml,Minuman,7000,45,PT test3,supp@test3.co.id,021-5245555
+11,Tango Wafer Coklat,Snack & Makanan Ringan,2500,60,PT test4,supp@test4.co.id,021-5307222
+12,Roma Kelapa 300g,Snack & Makanan Ringan,11000,7,PT test4,supp@test4.co.id,021-5307222
+13,Chitato Sapi Panggang 68g,Snack & Makanan Ringan,10500,35,PT test5,supp@test5.co.id,021-5366066
+14,Beng-Beng Coklat,Snack & Makanan Ringan,2500,85,PT test4,supp@test4.co.id,021-5307222
+15,Biskuit Khong Guan Kaleng,Snack & Makanan Ringan,35000,5,PT test4,supp@test4.co.id,021-5307222
+16,Indomie Goreng,Mie Instan,3000,200,PT test5,supp@test5.co.id,021-5366066
+17,Mie Sedaap Goreng,Mie Instan,3000,180,PT test2,supp@test2.co.id,031-7508555
+18,Indomie Soto,Mie Instan,3000,9,PT test5,supp@test5.co.id,021-5366066
+19,Supermie Ayam Bawang,Mie Instan,2500,150,PT test5,supp@test5.co.id,021-5366066
+20,Pop Mie Rasa Ayam,Mie Instan,5500,8,PT test5,supp@test5.co.id,021-5366066
+21,Susu Ultra Milk 1L,Susu & Dairy,18000,30,PT test3,supp@test3.co.id,021-5245555
+22,Dancow Putih 800g,Susu & Dairy,56000,6,PT test1,supp@test1.co.id,021-29345888
+23,Indomilk Coklat 190ml,Susu & Dairy,5000,95,PT test5,supp@test5.co.id,021-5366066
+24,Royco Ayam 100g,Bumbu & Penyedap,9000,50,PT test3,supp@test3.co.id,021-5245555
+25,Kecap Bango 220ml,Bumbu & Penyedap,11000,8,PT test3,supp@test3.co.id,021-5245555
+26,Rinso Molto 900g,Sabun & Deterjen,24000,25,PT test3,supp@test3.co.id,021-5245555
+27,Sabun Lifebuoy 85g,Sabun & Deterjen,4500,70,PT test3,supp@test3.co.id,021-5245555
+28,Soklin Liquid 800ml,Sabun & Deterjen,18000,9,PT test2,supp@test2.co.id,031-7508555
+29,Pasta Gigi Pepsodent 190g,Perawatan Pribadi,12000,45,PT test3,supp@test3.co.id,021-5245555
+30,Shampo Clear Sachet,Perawatan Pribadi,2000,200,PT test3,supp@test3.co.id,021-5245555
