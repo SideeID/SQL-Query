@@ -10,5 +10,3 @@ JOIN Categories c ON p.Category_Id = c.Category_Id
 GROUP BY p.Product_Id, p.Product_Name, c.Category_Name 
 ORDER BY Total_Terjual DESC 
 LIMIT 5;
-
--- Tabel view 
